@@ -1,0 +1,50 @@
+# 알아두면 쓸데는 있는, 건강 잡학 — 논문을 중심으로
+# 배포 시 Sitemap 도메인을 실제 주소로 교체하세요.
+
+User-agent: *
+Allow: /
+
+# --- 생성형 검색·답변 엔진 크롤러 명시 허용 (GEO) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
