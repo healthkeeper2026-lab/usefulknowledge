@@ -1,0 +1,12 @@
+name: IndexNow ping
+
+on:
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Submit URL to IndexNow
+        run: |
+          curl -sS -w '\nHTTP %{http_code}\n' "https://api.indexnow.org/indexnow?url=https://healthkeeper2026-lab.github.io/usefulknowledge/&key=fd062fc105dc8dc8bd6451d82e5500ad&keyLocation=https://healthkeeper2026-lab.github.io/usefulknowledge/fd062fc105dc8dc8bd6451d82e5500ad.txt"
