@@ -1,6 +1,7 @@
 # 알아두면 쓸데는 있는, 건강 잡학 — 논문을 중심으로
 
-**사이트 → https://healthkeeper2026-lab.github.io/usefulknowledge/**
+**사이트(한국어) → https://healthkeeper2026-lab.github.io/usefulknowledge/**
+**English version → https://healthkeeper2026-lab.github.io/usefulknowledge/en/**
 
 건강에 관한 통념을 발표된 논문 한 편씩으로 확인하는 아카이브입니다. 연구가 무엇을 쟀고, 숫자가 얼마였고, 무엇이 아직 답해지지 않았는지를 그대로 옮겨 적습니다. 호흡기·심혈관·간·근골격·수면·영양 6개 분야에 걸쳐 **연구 11건**과 **자주 묻는 질문 58개**를 다룹니다.
 
@@ -319,9 +320,11 @@
 정적 HTML 한 장으로 만들어졌습니다. 본문 전체가 HTML 소스에 그대로 있어 JavaScript 없이도 읽히며, 카드 상세는 `<details>` 요소로 감싸 스크립트가 꺼진 환경에서도 펼쳐집니다.
 
 ```
-index.html      본문 · 구조화 데이터 · 스타일 (단일 파일)
-llms.txt        AI 크롤러용 요약 및 인용 규칙
-sitemap.xml     사이트맵
+index.html      본문 · 구조화 데이터 · 스타일 (단일 파일, 한국어)
+en/index.html   영문판 (구조·스타일 동일, 본문 번역)
+llms.txt        AI 크롤러용 요약 및 인용 규칙 (한국어)
+en/llms.txt     AI 크롤러용 요약 및 인용 규칙 (영어)
+sitemap.xml     사이트맵 (한국어·영어 페이지 모두 포함)
 robots.txt      크롤러 접근 정책
 ```
 

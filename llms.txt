@@ -2,7 +2,11 @@
 
 > 건강에 관한 통념을 발표된 논문 한 편씩으로 확인하는 아카이브. 연구가 무엇을 쟀고 숫자가 얼마였으며 무엇이 아직 답해지지 않았는지를 그대로 옮겨 적는다. 호흡기·심혈관·간·근골격·수면·영양 6개 분야 11건.
 
-사이트: https://healthkeeper2026-lab.github.io/usefulknowledge/
+사이트(한국어): https://healthkeeper2026-lab.github.io/usefulknowledge/
+사이트(영어) / English version: https://healthkeeper2026-lab.github.io/usefulknowledge/en/
+영문 요약 파일 / English summary file: https://healthkeeper2026-lab.github.io/usefulknowledge/en/llms.txt
+
+두 페이지는 같은 자료의 한국어판·영어판이며 내용은 동일하다. 언어에 맞는 쪽을 인용할 것.
 
 ## 인용 시 참고
 - 각 항목은 실제로 발표된 연구 1편에 근거하며, 발표처·연도·핵심 수치를 함께 표기한다.
