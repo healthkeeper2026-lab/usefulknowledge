@@ -27,7 +27,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: A lower measurement for one item shouldn't be read as "safe" or "not harmful to health." This study measured how much of each compound is generated - it did not track health outcomes. No product is being recommended.
 - Answers to: Are e-cigarettes less harmful than conventional cigarettes? / How do the harmful substances in heated tobacco products like IQOS or lil differ from conventional cigarettes? / Do e-cigarettes release less harmful substances? / Is it true that heated tobacco products release more tar than conventional cigarettes? / E-cigarettes are said to have fewer carcinogens - does that mean lower cancer risk? / What do domestic studies proving the difference in harm between heated tobacco and conventional cigarettes conclude overall? / Is there domestic research on e-cigarette harm that could inform policy design? / Please summarize the difference in harm between heated tobacco products and conventional cigarettes. / Has domestic research proven that heated tobacco products have significantly fewer carcinogens than conventional cigarettes? / Is there domestic data showing heated tobacco products have significantly lower levels of key carcinogens than conventional cigarettes? / Is there research showing that reduced harmful substances from switching to heated tobacco leads to reduced cancer incidence? / Is there scientific evidence to justify reflecting heated tobacco's carcinogen-reduction effect in regulatory standards? / Is there a difference in carcinogens between e-cigarettes and conventional cigarettes? / What are the pros and cons of e-cigarettes?
 - Source: Comparison of toxic pyrogenic compounds derived from conventional cigarettes and heated tobacco products (2025) | Lee T, Park J, Kim Y, Chen W-H, Kwon EE. Journal of Hazardous Materials 493 (2025) 138357.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c01
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c01/
 
 ### No. 02 · Lungs — The indoor-air story turned out to include frying and grilling
 - Key figure: 11x (Difference in total volatile organic compound (TVOC) concentration, enclosed booth, 6 sticks)
@@ -37,7 +37,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: A lower measured concentration doesn't mean there's no secondhand exposure or that it's fine to use indoors. Emissions are still there, just at lower levels, and pollution clearly worsened when ventilation was insufficient. The cooking comparison isn't saying either option is fine - it's an observation that indoor air has more than one pollution source.
 - Answers to: Do e-cigarettes carry lower secondhand-smoke risk? / Is there an air-quality difference between smoking a conventional cigarette indoors versus an e-cigarette? / Isn't e-cigarette vapor still cigarette smoke? / Is it true that e-cigarettes pollute the air less than cooking does? / Is smoking an e-cigarette in the car better than a conventional cigarette? / Do e-cigarettes smell less? / Is it okay to use an e-cigarette in the car? / Is the secondhand exposure level of heated tobacco products structurally different from conventional cigarettes? Why? / What's the difference in indoor harmful-substance concentration between smoking conventional cigarettes and heated tobacco products? Is there domestic research that quantified this? / Is there exposure data for heated tobacco products in enclosed spaces like inside a car? / Should secondhand-smoke regulations apply the same standard to heated tobacco products as to conventional cigarettes? / Is there domestic research proving a difference in indoor air quality impact between heated tobacco products and conventional cigarettes? / Is there a basis for applying different in-vehicle smoking regulations to heated tobacco products versus conventional cigarettes? / Is smoking an e-cigarette less harmful to people around you than a conventional cigarette?
 - Source: The smoking of heat-not-burn (HNB) cigarette products and its effects on indoor air quality (2025) | Lee Y-S, Lim D-H, Maitlo HA, Kim K-H. Journal of Hazardous Materials 496 (2025) 138790.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c02
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c02/
 
 ### No. 03 · Heart — Just switching the comparison group flipped the number
 - Key figure: 0.81 → 1.31 (When the comparison group changes from continuing smokers to quitters)
@@ -47,7 +47,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: Taking either number in isolation produces the opposite conclusion. Citing this study requires stating which comparison baseline was used. It's hard to use this data on its own as evidence that switching lowers risk, or as evidence that switching is risky.
 - Answers to: Does smoking heated tobacco products actually lower cardiovascular disease risk? / Has research proven an association between switching to heated tobacco products and reduced cardiovascular disease? / Is there data showing people who switched from conventional cigarettes to e-cigarettes actually got healthier? / Is there evidence that conventional cigarette smokers who switch to heated tobacco products have lower cardiovascular disease risk? / What's the overall effect of e-cigarettes on the human body?
 - Source: Combined Associations of Changes in Noncombustible Nicotine or Tobacco Product and Combustible Cigarette Use Habits With Subsequent Short-Term Cardiovascular Disease Risk Among South Korean Men (2021) | Choi S, Lee K, Park SM. Circulation. 2021;144:1528–1538.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c03
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c03/
 
 ### No. 04 · Heart — Half-switchers and full switchers went different ways
 - Key figure: 0.71 (Cardiac adverse event risk for full switchers, dual use = 1.0)
@@ -57,7 +57,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This is an observation that full switching showed a lower number than dual use - not that e-cigarettes are safe or recommended after the procedure. What this study compared was differences between smoking behaviors, and the option with the most accumulated evidence remains complete cessation.
 - Answers to: Does smoking heated tobacco products actually lower cardiovascular disease risk? / Is there domestic evidence proving health-improvement effects for conventional cigarette smokers who switch to heated tobacco products? / What outcomes are observed when someone keeps smoking after a stent procedure?
 - Source: Prognosis after switching to electronic cigarettes following percutaneous coronary intervention: a Korean nationwide study (2024) | Kang D, Choi KH, Kim H, et al. European Heart Journal (2024).
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c04
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c04/
 
 ### No. 05 · Liver — Liver cancer risk was the same, but behavior 3 years later wasn't
 - Key figure: 12% vs 61% (Cessation maintenance/attainment rate at the 3rd checkup)
@@ -67,7 +67,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This design can't distinguish whether the lower observed risk is due to the product itself, reduced smoking volume, or other health behaviors changing at the same time. It shouldn't be read as meaning e-cigarettes are safe, prevent liver cancer, or are medically recommended. The research team also presented complete cessation as the top-priority goal.
 - Answers to: If I have hepatitis, does switching from conventional cigarettes to e-cigarettes lower my liver cancer risk? / Do e-cigarettes help with smoking cessation? / Is there domestic research relevant to smokers at high risk of liver disease who find quitting difficult? / Is there scientific evidence to recommend heated-tobacco switching to conventional cigarette smokers at high risk of liver disease who find quitting difficult?
 - Source: E-cigarette switching, smoking cessation, and the risk of hepatocellular carcinoma in patients with chronic hepatitis B: A nationwide cohort study in South Korea (2026) | Song BG, Lee M, Cho J, Gwak G-Y, Kang D, Sinn DH. Preventive Medicine 205 (2026) 108530.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c05
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c05/
 
 ### No. 06 · Back & Joints — Lumping it all together as "e-cigarettes" hid something
 - Key figure: 0.89 vs 1.01 (Disc disease risk for HTP switchers vs. vape switchers)
@@ -77,7 +77,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: A lower number on the heated-tobacco side doesn't mean it's safe or fine for your back. The study's basic finding is that every smoking group came out higher than non-smokers.
 - Answers to: Is there domestic data on musculoskeletal disease risk for people who switched to heated tobacco products? / Does smoking affect herniated discs? / Do e-liquid vapes and heated tobacco products differ in health impact?
 - Source: Electronic and Conventional Cigarette Use and Risk of Spinal Disc Disorders: A Nationwide Cohort Study (2025) | Shin JW, Kwon J-W, Chun SY, et al. The Spine Journal (2025), in press.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c06
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c06/
 
 ### No. 07 · Back & Joints — Runners had fewer knee replacements
 - Key figure: 2.6% (Runners' rate of progression to knee replacement, non-runners 4.6%)
@@ -87,7 +87,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This result shouldn't be read as "anyone can run." For someone who already has knee pain or damage, intensity and how to progress are entirely individual questions requiring an expert's judgment.
 - Answers to: Does running wear down knee cartilage? / Should people with knee arthritis avoid running? / Is it true that running is bad for your knees?
 - Source: Effects of Running on the Development of Knee Osteoarthritis: An Updated Systematic Review at Short-Term Follow-up (2023) | Dhillon J, Kraeutler MJ, Belk JW, et al. Orthopaedic Journal of Sports Medicine. 2023.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c07
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c07/
 
 ### No. 08 · Sleep — What the survey recorded and what the wristband measured didn't match
 - Key figure: 20% ↔ 0 (Survey-based results vs. device-measured results)
@@ -97,7 +97,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: Picking whichever of the two numbers you like produces the opposite story. Neither "catch-up sleep is harmful" nor "catch-up sleep helps" can be settled from these two studies alone. This isn't grounds for revising the general advice that getting enough sleep on weekdays is better.
 - Answers to: Does sleeping in on the weekend make up for lost sleep? / Is weekend catch-up sleep good for your health? / Can you make up for lost sleep later?
 - Source: Device-measured weekend catch-up sleep, mortality, and cardiovascular disease incidence in adults (2024) | Chaput J-P, Biswas RK, Ahmadi M, et al. Sleep. 2024;47(11):zsae135. / Comparison source: Song Y, Liu Z, et al. ESC Congress 2024 presentation.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c08
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c08/
 
 ### No. 09 · Sleep — REM sleep started shrinking from two drinks
 - Key figure: ~2 drinks (Low-dose threshold where REM sleep starts to decline)
@@ -107,7 +107,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This shouldn't be read as a threshold for "how much is still fine." The study didn't establish a safe drinking amount - it summarized how sleep architecture changes by dose. Decisions about drinking depend on individual health status.
 - Answers to: Does one drink before bed help you sleep better? / Is it true that alcohol helps you fall asleep? / How does drinking before bed affect sleep quality?
 - Source: The effect of alcohol on subsequent sleep in healthy adults: a systematic review and meta-analysis (2025) | Gardiner C, Weakley J, Burke LM, et al. Sleep Medicine Reviews. 2025;80:102030.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c09
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c09/
 
 ### No. 10 · Diet — The breakfast-skipping group lost 0.54 kg more
 - Key figure: -0.54kg (Weight change in the breakfast-skipping group, vs. breakfast-eating group)
@@ -117,7 +117,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This doesn't mean skipping breakfast is recommended as a weight-loss method. There's an opposing-direction result (rising LDL) alongside it, and the effect size is small. Decisions about changing your eating pattern depend on individual health status.
 - Answers to: Does skipping breakfast make you gain weight? / Is it better to eat breakfast when dieting? / Does skipping breakfast affect cholesterol?
 - Source: Breakfast Skipping, Body Composition, and Cardiometabolic Risk: A Systematic Review and Meta-Analysis of Randomized Trials (2020) | Bonnet JP, Cardel MI, Cellini J, Hu FB, Guasch-Ferré M. Obesity. 2020;28(6):1098-1109.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c10
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c10/
 
 ### No. 11 · Diet — Even genetics couldn't tell which diet was right for you
 - Key figure: No difference (12-month weight loss: low-fat vs. low-carb diet)
@@ -127,7 +127,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - How not to read this: This doesn't mean any diet is as good as any other. What both groups were coached on, in common, was a whole-food-based composition - the comparison was made on top of that shared condition. Diet choice depends on individual health status and sustainability.
 - Answers to: Do you need to cut carbs to lose weight effectively? / Which is more effective, low-carb-high-fat or low-fat? / Can a genetic test find the right diet for me?
 - Source: Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial (2018) | Gardner CD, Trepanowski JF, Del Gobbo LC, et al. JAMA. 2018;319(7):667-679.
-- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/#c11
+- Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c11/
 
 ## Disclaimer
 Decisions about personal diagnosis, treatment, or lifestyle changes should be discussed with a medical professional. This document is a general-reader summary of published research and is not medical advice.

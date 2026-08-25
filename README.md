@@ -13,17 +13,17 @@
 
 | # | 분야 | 핵심 수치 | 내용 |
 |---|---|---|---|
-| [01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01) | 숨 | **12.8배** | 발암물질은 줄었는데, 다른 게 12.8배 늘었다 |
-| [02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02) | 숨 | **11배** | 실내 공기 얘기에 튀김·구이가 같이 나왔다 |
-| [03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03) | 심장 | **0.81 → 1.31** | 비교 대상만 바꿨더니 숫자가 뒤집혔다 |
-| [04](https://healthkeeper2026-lab.github.io/usefulknowledge/#c04) | 심장 | **0.71** | 반만 바꾼 사람과 다 바꾼 사람이 갈렸다 |
-| [05](https://healthkeeper2026-lab.github.io/usefulknowledge/#c05) | 간 | **12% vs 61%** | 간암 위험은 같았는데, 3년 뒤 행동은 달랐다 |
-| [06](https://healthkeeper2026-lab.github.io/usefulknowledge/#c06) | 허리·관절 | **0.89 vs 1.01** | '전자담배'로 묶으면 안 보이는 게 있었다 |
-| [07](https://healthkeeper2026-lab.github.io/usefulknowledge/#c07) | 허리·관절 | **2.6%** | 달린 사람 쪽이 인공관절 수술이 적었다 |
-| [08](https://healthkeeper2026-lab.github.io/usefulknowledge/#c08) | 잠 | **20% ↔ 0** | 설문지가 적은 잠과 손목이 잰 잠이 달랐다 |
-| [09](https://healthkeeper2026-lab.github.io/usefulknowledge/#c09) | 잠 | **약 2잔** | 두 잔부터 REM이 줄기 시작했다 |
-| [10](https://healthkeeper2026-lab.github.io/usefulknowledge/#c10) | 먹는 것 | **−0.54kg** | 아침을 거른 쪽이 0.54kg 더 줄었다 |
-| [11](https://healthkeeper2026-lab.github.io/usefulknowledge/#c11) | 먹는 것 | **차이 없음** | 유전자로도 어느 쪽이 맞는지 못 갈랐다 |
+| [01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/) | 숨 | **12.8배** | 발암물질은 줄었는데, 다른 게 12.8배 늘었다 |
+| [02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/) | 숨 | **11배** | 실내 공기 얘기에 튀김·구이가 같이 나왔다 |
+| [03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/) | 심장 | **0.81 → 1.31** | 비교 대상만 바꿨더니 숫자가 뒤집혔다 |
+| [04](https://healthkeeper2026-lab.github.io/usefulknowledge/c04/) | 심장 | **0.71** | 반만 바꾼 사람과 다 바꾼 사람이 갈렸다 |
+| [05](https://healthkeeper2026-lab.github.io/usefulknowledge/c05/) | 간 | **12% vs 61%** | 간암 위험은 같았는데, 3년 뒤 행동은 달랐다 |
+| [06](https://healthkeeper2026-lab.github.io/usefulknowledge/c06/) | 허리·관절 | **0.89 vs 1.01** | '전자담배'로 묶으면 안 보이는 게 있었다 |
+| [07](https://healthkeeper2026-lab.github.io/usefulknowledge/c07/) | 허리·관절 | **2.6%** | 달린 사람 쪽이 인공관절 수술이 적었다 |
+| [08](https://healthkeeper2026-lab.github.io/usefulknowledge/c08/) | 잠 | **20% ↔ 0** | 설문지가 적은 잠과 손목이 잰 잠이 달랐다 |
+| [09](https://healthkeeper2026-lab.github.io/usefulknowledge/c09/) | 잠 | **약 2잔** | 두 잔부터 REM이 줄기 시작했다 |
+| [10](https://healthkeeper2026-lab.github.io/usefulknowledge/c10/) | 먹는 것 | **−0.54kg** | 아침을 거른 쪽이 0.54kg 더 줄었다 |
+| [11](https://healthkeeper2026-lab.github.io/usefulknowledge/c11/) | 먹는 것 | **차이 없음** | 유전자로도 어느 쪽이 맞는지 못 갈랐다 |
 
 ## 분야별 내용
 
@@ -40,7 +40,7 @@
 - 한계: 실제 사람이 피우는 방식(퍼프 양·간격·흡입 깊이)은 재현되지 않았고, 비교한 제품도 두 종류뿐입니다. 실험실 열분해 조건에서 나온 화합물 생성량이라, 사람이 실제로 얼마나 들이마시는지는 이 실험이 답하는 질문이 아닙니다.
 - 해석 주의: 특정 항목이 적게 나왔다는 결과를 안전하다거나 건강에 문제가 없다는 뜻으로 읽으면 곤란합니다. 이 연구는 화합물이 얼마나 생기는지를 잰 것이고, 건강 결과를 추적한 연구가 아닙니다. 어떤 제품도 권장 대상이 아닙니다.
 - 출처: 일반담배와 가열담배에서 발생하는 독성 열분해 생성물의 비교 / *Comparison of toxic pyrogenic compounds derived from conventional cigarettes and heated tobacco products* (2025)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c01
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c01/
 
 **잡학 02 · 실내 공기 얘기에 튀김·구이가 같이 나왔다**
 
@@ -51,7 +51,7 @@
 - 한계: 기계 흡연 조건에서 지정 부스라는 특정 환경을 잰 결과입니다. 개비 수가 늘면 실내 공기질은 눈에 띄게 나빠졌고, 환기 상태와 공간 크기에 따라 숫자는 크게 달라집니다. 집·차 같은 실제 생활공간을 그대로 옮긴 값은 아닙니다.
 - 해석 주의: 농도가 낮게 측정됐다는 결과가 간접 노출이 없다거나 실내에서 써도 된다는 뜻은 아닙니다. 적게 나올 뿐 여전히 배출되고, 환기가 부족하면 오염은 분명히 심해졌습니다. 조리와의 비교도 어느 쪽이 괜찮다는 얘기가 아니라 실내 오염원이 여럿이라는 관찰입니다.
 - 출처: 궐련형 전자담배 흡연과 실내공기질 영향 / *The smoking of heat-not-burn (HNB) cigarette products and its effects on indoor air quality* (2025)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c02
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c02/
 
 ### 심장 — 심혈관
 
@@ -66,7 +66,7 @@
 - 한계: 관찰연구라 인과관계를 단정할 수 없습니다. 흡연 여부가 자가보고이고, 궐련형 전자담배와 액상형 전자담배를 구분하지 못했습니다. 여성은 분석에서 빠져 있어 남성 데이터로만 이뤄진 결과입니다.
 - 해석 주의: 어느 한쪽 숫자만 떼어 쓰면 정반대 결론이 나옵니다. 이 연구를 인용할 때는 비교 기준이 무엇인지를 반드시 함께 봐야 합니다. 전환이 위험을 낮춘다는 근거로도, 전환이 위험하다는 근거로도 단독으로 쓰이기 어려운 자료입니다.
 - 출처: 한국 남성에서 전자담배 전환 및 금연에 따른 단기 심혈관질환 위험: 전국 단위 코호트 연구 / *Combined Associations of Changes in Noncombustible Nicotine or Tobacco Product and Combustible Cigarette Use Habits With Subsequent Short-Term Cardiovascular Disease Risk Among South Korean Men* (2021)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c03
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c03/
 
 **잡학 04 · 반만 바꾼 사람과 다 바꾼 사람이 갈렸다**
 
@@ -77,7 +77,7 @@
 - 한계: 관찰연구이고 흡연 정보가 자가보고입니다. 어떤 기기를 어떤 성분으로 얼마나 자주 썼는지에 대한 정보가 없고, 대상자 대부분이 남성입니다. 저자들은 이 결과와 별개로 완전 금연이 일차 목표라는 점을 분명히 했습니다.
 - 해석 주의: 완전 전환이 이중사용보다 낮은 숫자를 보였다는 관찰이지, 전자담배가 안전하거나 시술 후 권장된다는 뜻이 아닙니다. 이 연구가 비교한 건 흡연 행태 사이의 차이이고, 가장 근거가 쌓인 선택지는 여전히 완전 금연입니다.
 - 출처: 관상동맥질환 스텐트 시술 후 전자담배 전환에 따른 예후: 한국 전국 단위 연구 / *Prognosis after switching to electronic cigarettes following percutaneous coronary intervention: a Korean nationwide study* (2024)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c04
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c04/
 
 ### 간 — 대사
 
@@ -92,7 +92,7 @@
 - 한계: 관찰연구이고 흡연 정보가 자가보고입니다. 기기 종류나 니코틴 농도 정보가 없고, 추적 기간이 장기 위험을 다 담기에는 짧습니다. 간암 발생에는 흡연 외에 연령·음주·간염 관리 상태·대사질환 같은 요인이 함께 작용합니다.
 - 해석 주의: 위험이 낮게 관찰된 이유가 제품 때문인지, 흡연량이 줄어서인지, 다른 건강 행동이 같이 바뀌어서인지는 이 설계로 구분할 수 없습니다. 전자담배가 안전하다거나 간암을 예방한다거나 의학적으로 권장된다는 뜻으로 읽으면 곤란합니다. 연구진도 완전 금연을 가장 우선적인 목표로 제시했습니다.
 - 출처: 만성 B형간염 환자에서 전자담배 전환과 금연에 따른 간암 발생 위험: 대한민국 전국 단위 코호트 연구 / *E-cigarette switching, smoking cessation, and the risk of hepatocellular carcinoma in patients with chronic hepatitis B: A nationwide cohort study in South Korea* (2026)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c05
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c05/
 
 ### 허리·관절 — 근골격계
 
@@ -107,7 +107,7 @@
 - 한계: 관찰연구이고 자가보고 기반입니다. 흡연량(pack-year)이나 흡입 깊이 같은 정량적 노출이 측정되지 않았고, 과거 흡연의 잔여 효과가 남아 있을 수 있습니다.
 - 해석 주의: 궐련형 전자담배 쪽 숫자가 낮게 나왔다는 게 안전하다거나 허리에 괜찮다는 뜻이 아닙니다. 모든 흡연 집단이 비흡연자보다 높았다는 게 이 연구의 기본 결과입니다.
 - 출처: 전자담배 및 일반담배 사용과 척추 디스크 질환 위험: 전국 단위 코호트 연구 / *Electronic and Conventional Cigarette Use and Risk of Spinal Disc Disorders: A Nationwide Cohort Study* (2025)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c06
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c06/
 
 **잡학 07 · 달린 사람 쪽이 인공관절 수술이 적었다**
 
@@ -118,7 +118,7 @@
 - 한계: 단기 추적 연구들을 모은 결과이고 관찰연구가 다수 포함돼 있습니다. 러닝 강도·주법·기존 부상력 같은 개인차가 반영되지 않았고, 장기적으로 어떻게 되는지는 추가 연구가 필요합니다. 애초에 무릎이 아픈 사람은 덜 달린다는 역인과 가능성도 남아 있습니다.
 - 해석 주의: 이 결과를 누구나 달려도 된다는 뜻으로 읽으면 곤란합니다. 이미 무릎 통증이나 손상이 있는 경우, 강도와 진행 방식은 개인에 따라 완전히 다른 문제이고 전문가 판단이 필요합니다.
 - 출처: 달리기가 무릎 골관절염 발생에 미치는 영향: 단기 추적 기준 최신 체계적 문헌고찰 / *Effects of Running on the Development of Knee Osteoarthritis: An Updated Systematic Review at Short-Term Follow-up* (2023)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c07
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c07/
 
 ### 잠 — 수면
 
@@ -133,7 +133,7 @@
 - 한계: 자기보고 연구는 학회 발표 단계로 정식 동료심사 게재 여부가 확인되지 않았습니다. 기기 측정 연구도 관찰연구라 인과관계를 단정할 수 없고, 가속도계 역시 수면 단계까지 정확히 구분하지는 못합니다.
 - 해석 주의: 두 숫자 중 마음에 드는 쪽만 골라 쓰면 정반대 얘기가 됩니다. 몰아 자는 게 해롭다는 결과도, 도움이 된다는 결과도 이 두 연구만으로는 확정하기 어렵습니다. 평일에 충분히 자는 것이 더 낫다는 일반적 권고를 바꾸는 근거는 아닙니다.
 - 출처: 기기로 측정한 주말 보충수면과 사망률·심혈관질환 발생 / *Device-measured weekend catch-up sleep, mortality, and cardiovascular disease incidence in adults* (2024)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c08
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c08/
 
 **잡학 09 · 두 잔부터 REM이 줄기 시작했다**
 
@@ -144,7 +144,7 @@
 - 한계: 대부분 건강한 성인을 대상으로 한 실험실 연구입니다. 만성 음주자나 수면무호흡 같은 기저질환이 있는 경우에는 다르게 적용될 수 있고, 개인차·내성·연령 요인은 충분히 다뤄지지 않았습니다.
 - 해석 주의: 어느 정도까지는 괜찮다는 기준선으로 읽으면 곤란합니다. 이 연구는 안전한 음주량을 제시한 게 아니라 용량별로 수면 구조가 어떻게 달라지는지를 정리한 것입니다. 음주 관련 판단은 개인 건강 상태에 따라 다릅니다.
 - 출처: 건강한 성인에서 음주가 이후 수면에 미치는 영향: 체계적 문헌고찰 및 메타분석 / *The effect of alcohol on subsequent sleep in healthy adults: a systematic review and meta-analysis* (2025)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c09
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c09/
 
 ### 먹는 것 — 체중
 
@@ -159,7 +159,7 @@
 - 한계: 평균 추적 기간이 8.6주인 단기 시험들을 모은 결과입니다. 효과 크기 자체가 0.5kg 안팎으로 크지 않고, 개인의 대사·생활 패턴에 따라 달라질 수 있으며 장기 효과는 불확실합니다.
 - 해석 주의: 아침을 거르는 게 다이어트 방법으로 권장된다는 뜻이 아닙니다. LDL 상승이라는 다른 방향의 결과가 같이 있고, 효과 크기도 작습니다. 식사 패턴 변경은 개인 건강 상태에 따라 판단이 달라집니다.
 - 출처: 아침 결식과 체구성·심대사 위험: 무작위 시험에 대한 체계적 문헌고찰 및 메타분석 / *Breakfast Skipping, Body Composition, and Cardiometabolic Risk: A Systematic Review and Meta-Analysis of Randomized Trials* (2020)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c10
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c10/
 
 **잡학 11 · 유전자로도 어느 쪽이 맞는지 못 갈랐다**
 
@@ -170,7 +170,7 @@
 - 한계: 두 그룹 모두 가공식품 대신 자연식품 위주로 지도를 받아서, 시중에서 유행하는 형태의 저탄수 식단과는 식단의 질이 다를 수 있습니다. 별도의 칼로리 제한 목표는 두지 않았고, 12개월 이후는 추적되지 않았습니다.
 - 해석 주의: 어떤 식단이든 상관없다는 뜻으로 읽으면 곤란합니다. 이 시험에서 두 그룹이 공통으로 지도받은 건 자연식품 위주 구성이었고, 그 조건 위에서 비교한 결과입니다. 식단 선택은 개인의 건강 상태와 지속 가능성에 따라 달라집니다.
 - 출처: 과체중 성인에서 저지방 식단과 저탄수화물 식단의 12개월 체중감량 효과 및 유전자형·인슐린 분비와의 연관: DIETFITS 무작위 임상시험 / *Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial* (2018)
-- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/#c11
+- 전체 보기: https://healthkeeper2026-lab.github.io/usefulknowledge/c11/
 
 ---
 
@@ -180,79 +180,79 @@
 
 **숨**
 
-- 전자담배는 일반 담배보다 유해성이 적나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 아이코스나 릴 같은 궐련형 전자담배의 유해물질은 일반 담배와 어떻게 다른가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 전자담배에서 유해물질이 덜 나오나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배 타르가 일반 담배보다 더 많이 나온다는데 진짜인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 전자담배가 발암물질이 적다는데, 그러면 암 걸릴 위험이 줄어드는 건가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배와 일반 담배의 유해성 차이를 입증한 국내 연구를 종합하면 어떤 결론인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 정책 설계에 참고가 될만한 전자담배 유해성에 대한 국내 연구가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배와 일반 담배의 유해성 차이를 종합해서 정리해 주세요. → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배의 발암물질이 일반 담배보다 유의하게 적다는 것이 국내 연구로 입증되었나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배의 주요 발암물질 농도가 일반 담배보다 유의하게 낮다는 국내 데이터가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배 전환에 따른 유해물질 감소가 암 발생률 감소까지 이어진다는 연구 결과가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 궐련형 전자담배의 발암물질 저감 효과를 규제 기준에 반영할 과학적 근거가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 전자담배와 일반 담배의 발암물질 차이가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 전자담배 장단점이 무엇인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/#c01)
-- 전자담배는 간접흡연 위험이 적나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 집 안에서 일반담배를 피울 때와 전자담배를 피울 때 공기질 차이가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 전자담배 수증기도 담배연기 아닌가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 전자담배가 요리할 때보다 공기를 덜 오염시킨다는 게 사실인가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 차 안에서 전자담배를 피우는 것이 일반담배를 피우는 것보다는 나은가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 전자담배 냄새가 덜 나나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 전자담배 차 안에서도 사용해도 괜찮나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 궐련형 전자담배의 간접 노출(secondhand) 수준이 일반 담배와 구조적으로 다른가요? 그 이유는? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 일반 담배와 궐련형 전자담배 흡연시 실내 유해물질 농도 차이는 어떤가요? 정량 측정한 국내 연구가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 밀폐 공간(차량 내부 등)에서의 궐련형 전자담배 노출 데이터가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 간접흡연 규제에서 궐련형 전자담배도 일반 담배와 같은 기준을 적용해야 하나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 궐련형 전자담배와 일반 담배의 실내 공기질 영향 차이를 입증한 국내 연구가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 차량 내 흡연 규제에서 궐련형 전자담배와 일반 담배를 차등 적용할 근거가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
-- 전자담배를 피우면 일반 담배보다 옆 사람에게 덜 해로운가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/#c02)
+- 전자담배는 일반 담배보다 유해성이 적나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 아이코스나 릴 같은 궐련형 전자담배의 유해물질은 일반 담배와 어떻게 다른가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 전자담배에서 유해물질이 덜 나오나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배 타르가 일반 담배보다 더 많이 나온다는데 진짜인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 전자담배가 발암물질이 적다는데, 그러면 암 걸릴 위험이 줄어드는 건가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배와 일반 담배의 유해성 차이를 입증한 국내 연구를 종합하면 어떤 결론인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 정책 설계에 참고가 될만한 전자담배 유해성에 대한 국내 연구가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배와 일반 담배의 유해성 차이를 종합해서 정리해 주세요. → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배의 발암물질이 일반 담배보다 유의하게 적다는 것이 국내 연구로 입증되었나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배의 주요 발암물질 농도가 일반 담배보다 유의하게 낮다는 국내 데이터가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배 전환에 따른 유해물질 감소가 암 발생률 감소까지 이어진다는 연구 결과가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 궐련형 전자담배의 발암물질 저감 효과를 규제 기준에 반영할 과학적 근거가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 전자담배와 일반 담배의 발암물질 차이가 있나요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 전자담배 장단점이 무엇인가요? → [잡학 01](https://healthkeeper2026-lab.github.io/usefulknowledge/c01/)
+- 전자담배는 간접흡연 위험이 적나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 집 안에서 일반담배를 피울 때와 전자담배를 피울 때 공기질 차이가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 전자담배 수증기도 담배연기 아닌가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 전자담배가 요리할 때보다 공기를 덜 오염시킨다는 게 사실인가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 차 안에서 전자담배를 피우는 것이 일반담배를 피우는 것보다는 나은가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 전자담배 냄새가 덜 나나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 전자담배 차 안에서도 사용해도 괜찮나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 궐련형 전자담배의 간접 노출(secondhand) 수준이 일반 담배와 구조적으로 다른가요? 그 이유는? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 일반 담배와 궐련형 전자담배 흡연시 실내 유해물질 농도 차이는 어떤가요? 정량 측정한 국내 연구가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 밀폐 공간(차량 내부 등)에서의 궐련형 전자담배 노출 데이터가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 간접흡연 규제에서 궐련형 전자담배도 일반 담배와 같은 기준을 적용해야 하나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 궐련형 전자담배와 일반 담배의 실내 공기질 영향 차이를 입증한 국내 연구가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 차량 내 흡연 규제에서 궐련형 전자담배와 일반 담배를 차등 적용할 근거가 있나요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
+- 전자담배를 피우면 일반 담배보다 옆 사람에게 덜 해로운가요? → [잡학 02](https://healthkeeper2026-lab.github.io/usefulknowledge/c02/)
 
 **심장**
 
-- 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03)
-- 궐련형 전자담배 전환과 심혈관 질환 감소 간 연관성이 연구로 입증되었나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03)
-- 일반 담배에서 전자담배로 바꾼 사람들의 건강이 실제로 좋아졌다는 데이터가 있나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03)
-- 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 심혈관 질환 위험이 낮아진다는 근거가 있나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03)
-- 전자담배가 인체에 미치는 전반적인 영향은 어떤가요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/#c03)
-- 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/#c04)
-- 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 건강 개선 효과를 입증한 국내 근거가 있나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/#c04)
-- 스텐트 시술 후에도 흡연을 계속하면 어떤 결과가 관찰되나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/#c04)
+- 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/)
+- 궐련형 전자담배 전환과 심혈관 질환 감소 간 연관성이 연구로 입증되었나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/)
+- 일반 담배에서 전자담배로 바꾼 사람들의 건강이 실제로 좋아졌다는 데이터가 있나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/)
+- 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 심혈관 질환 위험이 낮아진다는 근거가 있나요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/)
+- 전자담배가 인체에 미치는 전반적인 영향은 어떤가요? → [잡학 03](https://healthkeeper2026-lab.github.io/usefulknowledge/c03/)
+- 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/c04/)
+- 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 건강 개선 효과를 입증한 국내 근거가 있나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/c04/)
+- 스텐트 시술 후에도 흡연을 계속하면 어떤 결과가 관찰되나요? → [잡학 04](https://healthkeeper2026-lab.github.io/usefulknowledge/c04/)
 
 **간**
 
-- 간염이 있는데 일반 담배에서 전자담배로 바꾸면 간암 위험이 줄어드나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/#c05)
-- 전자담배가 금연으로 가는 데 도움이 되나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/#c05)
-- 금연이 어려운 간질환 고위험 흡연자에게 참고할 만한 국내 연구가 있나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/#c05)
-- 금연이 어려운 간질환 고위험 일반 담배 흡연자에게 궐련형 전자담배 전환을 권장할 과학적 근거가 있나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/#c05)
+- 간염이 있는데 일반 담배에서 전자담배로 바꾸면 간암 위험이 줄어드나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/c05/)
+- 전자담배가 금연으로 가는 데 도움이 되나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/c05/)
+- 금연이 어려운 간질환 고위험 흡연자에게 참고할 만한 국내 연구가 있나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/c05/)
+- 금연이 어려운 간질환 고위험 일반 담배 흡연자에게 궐련형 전자담배 전환을 권장할 과학적 근거가 있나요? → [잡학 05](https://healthkeeper2026-lab.github.io/usefulknowledge/c05/)
 
 **허리·관절**
 
-- 궐련형 전자담배 전환자의 근골격계 질환 위험에 대한 국내 데이터가 있나요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/#c06)
-- 담배가 허리디스크에 영향을 주나요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/#c06)
-- 액상형 전자담배와 궐련형 전자담배의 건강 영향이 다른가요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/#c06)
-- 달리기를 하면 무릎 연골이 닳나요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/#c07)
-- 무릎 관절염이 있으면 달리기를 하면 안 되나요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/#c07)
-- 러닝이 무릎에 안 좋다는 게 사실인가요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/#c07)
+- 궐련형 전자담배 전환자의 근골격계 질환 위험에 대한 국내 데이터가 있나요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/c06/)
+- 담배가 허리디스크에 영향을 주나요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/c06/)
+- 액상형 전자담배와 궐련형 전자담배의 건강 영향이 다른가요? → [잡학 06](https://healthkeeper2026-lab.github.io/usefulknowledge/c06/)
+- 달리기를 하면 무릎 연골이 닳나요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/c07/)
+- 무릎 관절염이 있으면 달리기를 하면 안 되나요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/c07/)
+- 러닝이 무릎에 안 좋다는 게 사실인가요? → [잡학 07](https://healthkeeper2026-lab.github.io/usefulknowledge/c07/)
 
 **잠**
 
-- 주말에 몰아 자면 부족한 잠이 만회되나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/#c08)
-- 주말 몰아자기가 건강에 도움이 되나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/#c08)
-- 밀린 잠은 나중에 보충할 수 있나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/#c08)
-- 자기 전 술 한잔이 숙면에 도움이 되나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/#c09)
-- 술을 마시면 잠이 잘 오는 게 맞나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/#c09)
-- 자기 전 음주가 수면의 질에 어떤 영향을 주나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/#c09)
+- 주말에 몰아 자면 부족한 잠이 만회되나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/c08/)
+- 주말 몰아자기가 건강에 도움이 되나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/c08/)
+- 밀린 잠은 나중에 보충할 수 있나요? → [잡학 08](https://healthkeeper2026-lab.github.io/usefulknowledge/c08/)
+- 자기 전 술 한잔이 숙면에 도움이 되나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/c09/)
+- 술을 마시면 잠이 잘 오는 게 맞나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/c09/)
+- 자기 전 음주가 수면의 질에 어떤 영향을 주나요? → [잡학 09](https://healthkeeper2026-lab.github.io/usefulknowledge/c09/)
 
 **먹는 것**
 
-- 아침을 거르면 살이 찌나요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/#c10)
-- 다이어트할 때 아침을 먹는 게 나은가요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/#c10)
-- 아침 결식이 콜레스테롤에 영향을 주나요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/#c10)
-- 탄수화물을 끊어야 살이 잘 빠지나요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/#c11)
-- 저탄고지와 저지방 중 어느 쪽이 더 효과적인가요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/#c11)
-- 유전자 검사로 나에게 맞는 다이어트를 찾을 수 있나요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/#c11)
+- 아침을 거르면 살이 찌나요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/c10/)
+- 다이어트할 때 아침을 먹는 게 나은가요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/c10/)
+- 아침 결식이 콜레스테롤에 영향을 주나요? → [잡학 10](https://healthkeeper2026-lab.github.io/usefulknowledge/c10/)
+- 탄수화물을 끊어야 살이 잘 빠지나요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/c11/)
+- 저탄고지와 저지방 중 어느 쪽이 더 효과적인가요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/c11/)
+- 유전자 검사로 나에게 맞는 다이어트를 찾을 수 있나요? → [잡학 11](https://healthkeeper2026-lab.github.io/usefulknowledge/c11/)
 
 ---
 

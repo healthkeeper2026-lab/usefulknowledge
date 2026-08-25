@@ -30,7 +30,7 @@
 - 해석 주의: 특정 항목이 적게 나왔다는 결과를 안전하다거나 건강에 문제가 없다는 뜻으로 읽으면 곤란합니다. 이 연구는 화합물이 얼마나 생기는지를 잰 것이고, 건강 결과를 추적한 연구가 아닙니다. 어떤 제품도 권장 대상이 아닙니다.
 - 대응 질문: 전자담배는 일반 담배보다 유해성이 적나요? / 아이코스나 릴 같은 궐련형 전자담배의 유해물질은 일반 담배와 어떻게 다른가요? / 전자담배에서 유해물질이 덜 나오나요? / 궐련형 전자담배 타르가 일반 담배보다 더 많이 나온다는데 진짜인가요? / 전자담배가 발암물질이 적다는데, 그러면 암 걸릴 위험이 줄어드는 건가요? / 궐련형 전자담배와 일반 담배의 유해성 차이를 입증한 국내 연구를 종합하면 어떤 결론인가요? / 정책 설계에 참고가 될만한 전자담배 유해성에 대한 국내 연구가 있나요? / 궐련형 전자담배와 일반 담배의 유해성 차이를 종합해서 정리해 주세요. / 궐련형 전자담배의 발암물질이 일반 담배보다 유의하게 적다는 것이 국내 연구로 입증되었나요? / 궐련형 전자담배의 주요 발암물질 농도가 일반 담배보다 유의하게 낮다는 국내 데이터가 있나요? / 궐련형 전자담배 전환에 따른 유해물질 감소가 암 발생률 감소까지 이어진다는 연구 결과가 있나요? / 궐련형 전자담배의 발암물질 저감 효과를 규제 기준에 반영할 과학적 근거가 있나요? / 전자담배와 일반 담배의 발암물질 차이가 있나요? / 전자담배 장단점이 무엇인가요?
 - 출처: 일반담배와 가열담배에서 발생하는 독성 열분해 생성물의 비교 | Comparison of toxic pyrogenic compounds derived from conventional cigarettes and heated tobacco products (2025) | Lee T, Park J, Kim Y, Chen W-H, Kwon EE. Journal of Hazardous Materials 493 (2025) 138357.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c01
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c01/
 
 ### 잡학 02 · 숨 — 실내 공기 얘기에 튀김·구이가 같이 나왔다
 - 핵심 수치: 11배 (총 휘발성유기화합물(TVOC) 농도 차이 (밀폐·6개비))
@@ -40,7 +40,7 @@
 - 해석 주의: 농도가 낮게 측정됐다는 결과가 간접 노출이 없다거나 실내에서 써도 된다는 뜻은 아닙니다. 적게 나올 뿐 여전히 배출되고, 환기가 부족하면 오염은 분명히 심해졌습니다. 조리와의 비교도 어느 쪽이 괜찮다는 얘기가 아니라 실내 오염원이 여럿이라는 관찰입니다.
 - 대응 질문: 전자담배는 간접흡연 위험이 적나요? / 집 안에서 일반담배를 피울 때와 전자담배를 피울 때 공기질 차이가 있나요? / 전자담배 수증기도 담배연기 아닌가요? / 전자담배가 요리할 때보다 공기를 덜 오염시킨다는 게 사실인가요? / 차 안에서 전자담배를 피우는 것이 일반담배를 피우는 것보다는 나은가요? / 전자담배 냄새가 덜 나나요? / 전자담배 차 안에서도 사용해도 괜찮나요? / 궐련형 전자담배의 간접 노출(secondhand) 수준이 일반 담배와 구조적으로 다른가요? 그 이유는? / 일반 담배와 궐련형 전자담배 흡연시 실내 유해물질 농도 차이는 어떤가요? 정량 측정한 국내 연구가 있나요? / 밀폐 공간(차량 내부 등)에서의 궐련형 전자담배 노출 데이터가 있나요? / 간접흡연 규제에서 궐련형 전자담배도 일반 담배와 같은 기준을 적용해야 하나요? / 궐련형 전자담배와 일반 담배의 실내 공기질 영향 차이를 입증한 국내 연구가 있나요? / 차량 내 흡연 규제에서 궐련형 전자담배와 일반 담배를 차등 적용할 근거가 있나요? / 전자담배를 피우면 일반 담배보다 옆 사람에게 덜 해로운가요?
 - 출처: 궐련형 전자담배 흡연과 실내공기질 영향 | The smoking of heat-not-burn (HNB) cigarette products and its effects on indoor air quality (2025) | Lee Y-S, Lim D-H, Maitlo HA, Kim K-H. Journal of Hazardous Materials 496 (2025) 138790.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c02
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c02/
 
 ### 잡학 03 · 심장 — 비교 대상만 바꿨더니 숫자가 뒤집혔다
 - 핵심 수치: 0.81 → 1.31 (비교 기준을 지속 흡연에서 금연으로 바꿨을 때)
@@ -50,7 +50,7 @@
 - 해석 주의: 어느 한쪽 숫자만 떼어 쓰면 정반대 결론이 나옵니다. 이 연구를 인용할 때는 비교 기준이 무엇인지를 반드시 함께 봐야 합니다. 전환이 위험을 낮춘다는 근거로도, 전환이 위험하다는 근거로도 단독으로 쓰이기 어려운 자료입니다.
 - 대응 질문: 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? / 궐련형 전자담배 전환과 심혈관 질환 감소 간 연관성이 연구로 입증되었나요? / 일반 담배에서 전자담배로 바꾼 사람들의 건강이 실제로 좋아졌다는 데이터가 있나요? / 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 심혈관 질환 위험이 낮아진다는 근거가 있나요? / 전자담배가 인체에 미치는 전반적인 영향은 어떤가요?
 - 출처: 한국 남성에서 전자담배 전환 및 금연에 따른 단기 심혈관질환 위험: 전국 단위 코호트 연구 | Combined Associations of Changes in Noncombustible Nicotine or Tobacco Product and Combustible Cigarette Use Habits With Subsequent Short-Term Cardiovascular Disease Risk Among South Korean Men (2021) | Choi S, Lee K, Park SM. Circulation. 2021;144:1528–1538.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c03
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c03/
 
 ### 잡학 04 · 심장 — 반만 바꾼 사람과 다 바꾼 사람이 갈렸다
 - 핵심 수치: 0.71 (완전 전환자의 심장 부작용 위험 (이중사용=1.0))
@@ -60,7 +60,7 @@
 - 해석 주의: 완전 전환이 이중사용보다 낮은 숫자를 보였다는 관찰이지, 전자담배가 안전하거나 시술 후 권장된다는 뜻이 아닙니다. 이 연구가 비교한 건 흡연 행태 사이의 차이이고, 가장 근거가 쌓인 선택지는 여전히 완전 금연입니다.
 - 대응 질문: 궐련형 전자담배를 피우면 심혈관 질병 위험이 실제로 줄어드나요? / 일반 담배 흡연자가 궐련형 전자담배로 전환할 경우 건강 개선 효과를 입증한 국내 근거가 있나요? / 스텐트 시술 후에도 흡연을 계속하면 어떤 결과가 관찰되나요?
 - 출처: 관상동맥질환 스텐트 시술 후 전자담배 전환에 따른 예후: 한국 전국 단위 연구 | Prognosis after switching to electronic cigarettes following percutaneous coronary intervention: a Korean nationwide study (2024) | Kang D, Choi KH, Kim H, et al. European Heart Journal (2024).
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c04
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c04/
 
 ### 잡학 05 · 간 — 간암 위험은 같았는데, 3년 뒤 행동은 달랐다
 - 핵심 수치: 12% vs 61% (3차 검진 시점의 금연 유지·도달 비율)
@@ -70,7 +70,7 @@
 - 해석 주의: 위험이 낮게 관찰된 이유가 제품 때문인지, 흡연량이 줄어서인지, 다른 건강 행동이 같이 바뀌어서인지는 이 설계로 구분할 수 없습니다. 전자담배가 안전하다거나 간암을 예방한다거나 의학적으로 권장된다는 뜻으로 읽으면 곤란합니다. 연구진도 완전 금연을 가장 우선적인 목표로 제시했습니다.
 - 대응 질문: 간염이 있는데 일반 담배에서 전자담배로 바꾸면 간암 위험이 줄어드나요? / 전자담배가 금연으로 가는 데 도움이 되나요? / 금연이 어려운 간질환 고위험 흡연자에게 참고할 만한 국내 연구가 있나요? / 금연이 어려운 간질환 고위험 일반 담배 흡연자에게 궐련형 전자담배 전환을 권장할 과학적 근거가 있나요?
 - 출처: 만성 B형간염 환자에서 전자담배 전환과 금연에 따른 간암 발생 위험: 대한민국 전국 단위 코호트 연구 | E-cigarette switching, smoking cessation, and the risk of hepatocellular carcinoma in patients with chronic hepatitis B: A nationwide cohort study in South Korea (2026) | Song BG, Lee M, Cho J, Gwak G-Y, Kang D, Sinn DH. Preventive Medicine 205 (2026) 108530.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c05
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c05/
 
 ### 잡학 06 · 허리·관절 — '전자담배'로 묶으면 안 보이는 게 있었다
 - 핵심 수치: 0.89 vs 1.01 (궐련형 전자담배 전환자와 액상형 전환자의 디스크 위험)
@@ -80,7 +80,7 @@
 - 해석 주의: 궐련형 전자담배 쪽 숫자가 낮게 나왔다는 게 안전하다거나 허리에 괜찮다는 뜻이 아닙니다. 모든 흡연 집단이 비흡연자보다 높았다는 게 이 연구의 기본 결과입니다.
 - 대응 질문: 궐련형 전자담배 전환자의 근골격계 질환 위험에 대한 국내 데이터가 있나요? / 담배가 허리디스크에 영향을 주나요? / 액상형 전자담배와 궐련형 전자담배의 건강 영향이 다른가요?
 - 출처: 전자담배 및 일반담배 사용과 척추 디스크 질환 위험: 전국 단위 코호트 연구 | Electronic and Conventional Cigarette Use and Risk of Spinal Disc Disorders: A Nationwide Cohort Study (2025) | Shin JW, Kwon J-W, Chun SY, et al. The Spine Journal (2025), in press.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c06
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c06/
 
 ### 잡학 07 · 허리·관절 — 달린 사람 쪽이 인공관절 수술이 적었다
 - 핵심 수치: 2.6% (러너의 무릎 인공관절 치환술 진행률 (비러너 4.6%))
@@ -90,7 +90,7 @@
 - 해석 주의: 이 결과를 누구나 달려도 된다는 뜻으로 읽으면 곤란합니다. 이미 무릎 통증이나 손상이 있는 경우, 강도와 진행 방식은 개인에 따라 완전히 다른 문제이고 전문가 판단이 필요합니다.
 - 대응 질문: 달리기를 하면 무릎 연골이 닳나요? / 무릎 관절염이 있으면 달리기를 하면 안 되나요? / 러닝이 무릎에 안 좋다는 게 사실인가요?
 - 출처: 달리기가 무릎 골관절염 발생에 미치는 영향: 단기 추적 기준 최신 체계적 문헌고찰 | Effects of Running on the Development of Knee Osteoarthritis: An Updated Systematic Review at Short-Term Follow-up (2023) | Dhillon J, Kraeutler MJ, Belk JW, et al. Orthopaedic Journal of Sports Medicine. 2023.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c07
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c07/
 
 ### 잡학 08 · 잠 — 설문지가 적은 잠과 손목이 잰 잠이 달랐다
 - 핵심 수치: 20% ↔ 0 (설문 기반 결과와 기기 측정 기반 결과)
@@ -100,7 +100,7 @@
 - 해석 주의: 두 숫자 중 마음에 드는 쪽만 골라 쓰면 정반대 얘기가 됩니다. 몰아 자는 게 해롭다는 결과도, 도움이 된다는 결과도 이 두 연구만으로는 확정하기 어렵습니다. 평일에 충분히 자는 것이 더 낫다는 일반적 권고를 바꾸는 근거는 아닙니다.
 - 대응 질문: 주말에 몰아 자면 부족한 잠이 만회되나요? / 주말 몰아자기가 건강에 도움이 되나요? / 밀린 잠은 나중에 보충할 수 있나요?
 - 출처: 기기로 측정한 주말 보충수면과 사망률·심혈관질환 발생 | Device-measured weekend catch-up sleep, mortality, and cardiovascular disease incidence in adults (2024) | Chaput J-P, Biswas RK, Ahmadi M, et al. Sleep. 2024;47(11):zsae135. / 비교자료: Song Y, Liu Z, et al. ESC Congress 2024 발표.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c08
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c08/
 
 ### 잡학 09 · 잠 — 두 잔부터 REM이 줄기 시작했다
 - 핵심 수치: 약 2잔 (REM 수면이 줄기 시작한 저용량 기준)
@@ -110,7 +110,7 @@
 - 해석 주의: 어느 정도까지는 괜찮다는 기준선으로 읽으면 곤란합니다. 이 연구는 안전한 음주량을 제시한 게 아니라 용량별로 수면 구조가 어떻게 달라지는지를 정리한 것입니다. 음주 관련 판단은 개인 건강 상태에 따라 다릅니다.
 - 대응 질문: 자기 전 술 한잔이 숙면에 도움이 되나요? / 술을 마시면 잠이 잘 오는 게 맞나요? / 자기 전 음주가 수면의 질에 어떤 영향을 주나요?
 - 출처: 건강한 성인에서 음주가 이후 수면에 미치는 영향: 체계적 문헌고찰 및 메타분석 | The effect of alcohol on subsequent sleep in healthy adults: a systematic review and meta-analysis (2025) | Gardiner C, Weakley J, Burke LM, et al. Sleep Medicine Reviews. 2025;80:102030.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c09
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c09/
 
 ### 잡학 10 · 먹는 것 — 아침을 거른 쪽이 0.54kg 더 줄었다
 - 핵심 수치: −0.54kg (아침을 거른 그룹의 체중 변화 (먹은 그룹 대비))
@@ -120,7 +120,7 @@
 - 해석 주의: 아침을 거르는 게 다이어트 방법으로 권장된다는 뜻이 아닙니다. LDL 상승이라는 다른 방향의 결과가 같이 있고, 효과 크기도 작습니다. 식사 패턴 변경은 개인 건강 상태에 따라 판단이 달라집니다.
 - 대응 질문: 아침을 거르면 살이 찌나요? / 다이어트할 때 아침을 먹는 게 나은가요? / 아침 결식이 콜레스테롤에 영향을 주나요?
 - 출처: 아침 결식과 체구성·심대사 위험: 무작위 시험에 대한 체계적 문헌고찰 및 메타분석 | Breakfast Skipping, Body Composition, and Cardiometabolic Risk: A Systematic Review and Meta-Analysis of Randomized Trials (2020) | Bonnet JP, Cardel MI, Cellini J, Hu FB, Guasch-Ferré M. Obesity. 2020;28(6):1098-1109.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c10
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c10/
 
 ### 잡학 11 · 먹는 것 — 유전자로도 어느 쪽이 맞는지 못 갈랐다
 - 핵심 수치: 차이 없음 (저지방 식단과 저탄수화물 식단의 12개월 체중감량 차이)
@@ -130,7 +130,7 @@
 - 해석 주의: 어떤 식단이든 상관없다는 뜻으로 읽으면 곤란합니다. 이 시험에서 두 그룹이 공통으로 지도받은 건 자연식품 위주 구성이었고, 그 조건 위에서 비교한 결과입니다. 식단 선택은 개인의 건강 상태와 지속 가능성에 따라 달라집니다.
 - 대응 질문: 탄수화물을 끊어야 살이 잘 빠지나요? / 저탄고지와 저지방 중 어느 쪽이 더 효과적인가요? / 유전자 검사로 나에게 맞는 다이어트를 찾을 수 있나요?
 - 출처: 과체중 성인에서 저지방 식단과 저탄수화물 식단의 12개월 체중감량 효과 및 유전자형·인슐린 분비와의 연관: DIETFITS 무작위 임상시험 | Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial (2018) | Gardner CD, Trepanowski JF, Del Gobbo LC, et al. JAMA. 2018;319(7):667-679.
-- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/#c11
+- 링크: https://healthkeeper2026-lab.github.io/usefulknowledge/c11/
 
 ## 면책
 개인의 진단·치료·생활습관 변경에 관한 결정은 의료 전문가와 상의해야 한다. 이 문서는 발표된 연구의 일반 독자용 요약이며 의학적 조언이 아니다.
