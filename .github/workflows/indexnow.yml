@@ -2,11 +2,51 @@ name: IndexNow ping
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'en/index.html'
+      - 'c*/index.html'
+      - 'en/c*/index.html'
+      - 'sitemap.xml'
 
 jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Submit URL to IndexNow
+      - name: Submit all URLs to IndexNow
         run: |
-          curl -sS -w '\nHTTP %{http_code}\n' "https://api.indexnow.org/indexnow?url=https://healthkeeper2026-lab.github.io/usefulknowledge/&key=fd062fc105dc8dc8bd6451d82e5500ad&keyLocation=https://healthkeeper2026-lab.github.io/usefulknowledge/fd062fc105dc8dc8bd6451d82e5500ad.txt"
+          curl -sS -w '\nHTTP %{http_code}\n' -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{
+              "host": "healthkeeper2026-lab.github.io",
+              "key": "fd062fc105dc8dc8bd6451d82e5500ad",
+              "keyLocation": "https://healthkeeper2026-lab.github.io/usefulknowledge/fd062fc105dc8dc8bd6451d82e5500ad.txt",
+              "urlList": [
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c01/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c02/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c03/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c04/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c05/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c06/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c07/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c08/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c09/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c10/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/c11/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c01/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c02/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c03/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c04/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c05/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c06/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c07/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c08/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c09/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c10/",
+                "https://healthkeeper2026-lab.github.io/usefulknowledge/en/c11/"
+              ]
+            }'
