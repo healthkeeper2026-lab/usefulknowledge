@@ -60,7 +60,7 @@ Korean version: https://healthkeeper2026-lab.github.io/usefulknowledge/
 - Link: https://healthkeeper2026-lab.github.io/usefulknowledge/en/c04/
 
 ### No. 05 · Liver — Liver cancer risk was the same, but behavior 3 years later wasn't
-- Key figure: 12% vs 61% (Cessation maintenance/attainment rate at the 3rd checkup)
+- Key figure: ~22% lower (liver cancer risk, vs. continuing smokers)
 - Summary: Tracking patients with chronic hepatitis B, both the quitters and the e-cigarette switchers showed a 22% lower observed risk of liver cancer than continuing smokers. But the share of each group that actually reached smoking cessation over time differed sharply.
 - Design: Chronic hepatitis B cohort · 127,196 people
 - Limitations: This is an observational study with self-reported smoking data. There's no information on device type or nicotine concentration, and the follow-up period is too short to capture the full long-term risk. Factors besides smoking - age, alcohol use, hepatitis management status, metabolic disease - also contribute to liver cancer incidence.
