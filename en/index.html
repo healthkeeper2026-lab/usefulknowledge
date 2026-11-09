@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8G3XFEJGH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-H8G3XFEJGH');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Health Trivia Worth Knowing - Straight from the Papers</title>
@@ -1641,6 +1649,7 @@ body.lock{overflow:hidden}
    '<p class="rd-s">'+card.querySelector('.face-s').textContent+'</p>'+
    '</header><div class="rd-blocks">'+card.querySelector('.full').innerHTML+'</div></div>';
   ov.hidden=false;
+  if(window.gtag)gtag('event','card_open',{card_id:card.querySelector('.code').textContent.trim(),card_title:card.querySelector('.face-t').textContent.trim(),card_category:card.dataset.cat||''});
   requestAnimationFrame(function(){ov.classList.add('on')});
   document.body.classList.add('lock');
   var x=document.getElementById('x'); x.focus(); x.onclick=close;
